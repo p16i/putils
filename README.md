@@ -14,7 +14,7 @@ MakeFile
 
 ## Installation
 ```
-pip install https://github.com/heytitle/putils/archive/stable/0.1.3.zip
+pip install https://github.com/heytitle/putils/archive/stable/v0.1.3.zip
 ```
 
 ## Development
@@ -23,4 +23,9 @@ pip install https://github.com/heytitle/putils/archive/stable/0.1.3.zip
 ### Running Tests
 ```
 pytest tests/*
+```
+
+### Release
+```
+make bump
 ```
