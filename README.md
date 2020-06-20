@@ -4,12 +4,6 @@
 
 
 - pretty pandas
-- uniform random
-
-MakeFile
-- test
-- bump
-- release
 
 
 ## Installation
