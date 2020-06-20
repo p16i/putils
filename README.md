@@ -12,6 +12,11 @@ MakeFile
 - release
 
 
+## Installation
+```
+pip install https://github.com/heytitle/putils/archive/stable/0.1.1.zip
+```
+
 ## Development
 
 
