@@ -14,7 +14,7 @@ MakeFile
 
 ## Installation
 ```
-pip install https://github.com/heytitle/putils/archive/stable/v0.1.3.zip
+pip install https://github.com/heytitle/putils/archive/v0.1.3.zip
 ```
 
 ## Development
