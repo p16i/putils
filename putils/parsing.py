@@ -1,6 +1,6 @@
 import re 
 
-from typing import Dict, NamedTuple, Union
+from typing import Dict, Union
 
 int_rx = re.compile("^[0-9]+$")
 
