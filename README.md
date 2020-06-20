@@ -1,6 +1,6 @@
 # Utilities
 
-[![Actions Status](https://github.com/heytitle/putils/workflows/ci/badge.svg)](https://github.com/heytitle/putils/actions)
+[![Actions Status](https://github.com/heytitle/putils/workflows/CI/badge.svg)](https://github.com/heytitle/putils/actions)
 
 
 - pretty pandas
